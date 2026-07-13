@@ -12,7 +12,7 @@ visualisation.
 
 ## PCA overview 
 ![PCA of variance-stabilised RNA-seq data]
- (outputs/figures/airway_pca_plot.png)
+(outputs/figures/airway_pca_plot.png)
  
 ## Dataset 
  
