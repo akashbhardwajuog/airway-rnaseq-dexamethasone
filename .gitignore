@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.GDCdata/  
+.data_raw/airway_raw_counts.csv 
+.data_processed/airway_filtered_counts.rds 
+.data_processed/airway_deseq2_object.rds 
