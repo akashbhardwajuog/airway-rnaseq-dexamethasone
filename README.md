@@ -10,7 +10,8 @@ filtering, library-size quality control, DESeq2 normalisation, principal compone
 analysis, differential-expression analysis, Gene Ontology enrichment and heatmap 
 visualisation. 
 
-## PCA overview ![PCA of variance-stabilised RNA-seq data]
+## PCA overview 
+![PCA of variance-stabilised RNA-seq data]
 (outputs/figures/airway_pca_plot.png)
  
 ## Dataset 
