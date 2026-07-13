@@ -12,9 +12,8 @@ visualisation.
 
 ## PCA overview
 
-![PCA of variance-stabilised RNA-seq data]
-(../outputs/figures/airway_pca_plot.png)
- 
+![PCA of variance-stabilised RNA-seq data](outputs/figures/airway_pca_plot.png)
+
 ## Dataset 
  
 The analysis uses the `airway` Bioconductor experiment package. The underlying public 
