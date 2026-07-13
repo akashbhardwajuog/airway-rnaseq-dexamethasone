@@ -9,6 +9,9 @@ The analysis demonstrates an end-to-end RNA-seq workflow: data inspection, gene
 filtering, library-size quality control, DESeq2 normalisation, principal component 
 analysis, differential-expression analysis, Gene Ontology enrichment and heatmap 
 visualisation. 
+
+## PCA overview ![PCA of variance-stabilised RNA-seq data]
+(outputs/figures/airway_pca_plot.png)
  
 ## Dataset 
  
